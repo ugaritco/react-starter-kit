@@ -1,27 +1,27 @@
-# Laravel + React Starter Kit
+# Ugarit + React Starter Kit
 
 ## Introduction
 
-Our React starter kit provides a robust, modern starting point for building Laravel applications with a React frontend using [Inertia](https://inertiajs.com).
+Our React starter kit provides a robust, modern starting point for building Ugarit applications with a React frontend using [Inertia](https://inertiajs.com).
 
-Inertia allows you to build modern, single-page React applications using classic server-side routing and controllers. This lets you enjoy the frontend power of React combined with the incredible backend productivity of Laravel and lightning-fast Vite compilation.
+Inertia allows you to build modern, single-page React applications using classic server-side routing and controllers. This lets you enjoy the frontend power of React combined with the incredible backend productivity of Ugarit and lightning-fast Vite compilation.
 
 This React starter kit utilizes React 19, TypeScript, Tailwind, and the [shadcn/ui](https://ui.shadcn.com) and [radix-ui](https://www.radix-ui.com) component libraries.
 
 ## Official Documentation
 
-Documentation for all Laravel starter kits can be found on the [Laravel website](https://laravel.com/docs/starter-kits).
+Documentation for all Ugarit starter kits can be found on the [Ugarit website](https://ugarit.com/docs/starter-kits).
 
 ## Contributing
 
-Thank you for considering contributing to our starter kit! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Thank you for considering contributing to our starter kit! The contribution guide can be found in the [Ugarit documentation](https://ugarit.com/docs/contributions).
 
-All contributions to the Starter Kits from now on should be made through [Maestro](https://github.com/laravel/maestro).
+All contributions to the Starter Kits from now on should be made through [Alphabet](https://github.com/ugarit/alphabet).
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+In order to ensure that the Ugarit community is welcoming to all, please review and abide by the [Code of Conduct](https://ugarit.com/docs/contributions#code-of-conduct).
 
 ## License
 
-The Laravel + React starter kit is open-sourced software licensed under the MIT license.
+The Ugarit + React starter kit is open-sourced software licensed under the MIT license.
