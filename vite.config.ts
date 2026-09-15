@@ -25,6 +25,7 @@ export default defineConfig({
         }),
         tailwindcss(),
         wayfinder({
+            command: 'php scribe wayfinder:generate',
             formVariants: true,
         }),
     ]),
