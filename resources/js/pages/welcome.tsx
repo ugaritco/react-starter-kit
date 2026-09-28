@@ -15,8 +15,8 @@ export default function Welcome() {
         updateAppearance(resolvedAppearance === 'dark' ? 'light' : 'dark');
     };
 
-    const copyToClipboard = () => {
-        navigator.clipboard.writeText(cliCommand);
+    const copyToClipboard = async () => {
+        await navigator.clipboard.writeText(cliCommand);
         setCopiedCommand(true);
         setTimeout(() => {
             setCopiedCommand(false);
